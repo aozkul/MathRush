@@ -1,0 +1,158 @@
+{
+  "name": "MathRush",
+  "color": "#ffbb83",
+  "secondary": "#ffd966",
+  "icon": "app-icon.svg",
+  "copy": {
+    "tr": {
+      "tag": "MATEMATİĞE KÜÇÜK BİR MOLA",
+      "title": "Biraz düşün.\nBir adım daha çöz.",
+      "intro": "MathRush için resmi uygulama bilgileri, destek ve gizlilik merkezi. Sorularını doğrudan geliştiriciye iletebilirsin.",
+      "features": [
+        [
+          "MathRush hakkında",
+          "Matematik odaklı uygulamanın resmi sayfası."
+        ],
+        [
+          "Doğrudan destek",
+          "Teknik sorunlarını uygulama ve iOS sürümünle birlikte ilet."
+        ],
+        [
+          "Açık gizlilik bilgisi",
+          "Reklam hizmetlerinin işlediği veriler dahil gizlilik açıklamalarını incele."
+        ]
+      ],
+      "offer": "MathRush, Google AdMob reklam hizmetini kullanır. Ayrıntılar gizlilik sayfasında açıklanır.",
+      "steps": [
+        "Uygulama bilgilerine göz at.",
+        "Sorun yaşarsan destek sayfasına geç.",
+        "Reklam ve veri kullanımı için gizlilik açıklamasını incele."
+      ]
+    },
+    "en": {
+      "tag": "A LITTLE SPACE FOR MATH",
+      "title": "Think it through.\nOne more solution.",
+      "intro": "Official app information, support and privacy for MathRush. Reach the developer directly with your questions.",
+      "features": [
+        [
+          "About MathRush",
+          "The official information page for the math-focused app."
+        ],
+        [
+          "Direct support",
+          "Share technical issues with your app and iOS version."
+        ],
+        [
+          "Clear privacy information",
+          "Read about data handling, including the advertising services used by the app."
+        ]
+      ],
+      "offer": "MathRush uses Google AdMob advertising services. Details are available in the privacy policy.",
+      "steps": [
+        "Explore the app information.",
+        "Visit support if you need a hand.",
+        "Review privacy details about ads and data use."
+      ]
+    },
+    "de": {
+      "tag": "EIN WENIG ZEIT FÜR MATHE",
+      "title": "Weiterdenken.\nEine Lösung mehr.",
+      "intro": "Offizielle App-Informationen, Support und Datenschutz für MathRush. Bei Fragen erreichst du den Entwickler direkt.",
+      "features": [
+        [
+          "Über MathRush",
+          "Die offizielle Informationsseite der Mathematik-App."
+        ],
+        [
+          "Direkter Support",
+          "Technische Probleme mit App- und iOS-Version melden."
+        ],
+        [
+          "Klarer Datenschutz",
+          "Informiere dich über die Datenverarbeitung und die Werbedienste der App."
+        ]
+      ],
+      "offer": "MathRush verwendet Google AdMob für Werbung. Einzelheiten stehen in der Datenschutzerklärung.",
+      "steps": [
+        "App-Informationen ansehen.",
+        "Bei Fragen die Supportseite öffnen.",
+        "Datenschutzinformationen zu Werbung und Daten lesen."
+      ]
+    }
+  },
+  "privacy": {
+    "en": [
+      [
+        "App and advertising",
+        "MathRush does not directly collect personal data. It uses Google AdMob to display advertisements. Third-party services may collect device identifiers, advertising identifiers and data, usage statistics, crash diagnostics and performance information. These identifiers and technical data may qualify as personal data."
+      ],
+      [
+        "Google services",
+        "Google manages this information under its own privacy policy. See https://policies.google.com/privacy. MathRush does not sell personal data."
+      ]
+    ],
+    "tr": [
+      [
+        "Uygulama ve reklam",
+        "MathRush kişisel verileri doğrudan toplamaz. Reklam göstermek için Google AdMob kullanır. Üçüncü taraf hizmetler cihaz kimliklerini, reklam kimliği ve verilerini, kullanım istatistiklerini, çökme tanılamalarını ve performans bilgilerini işleyebilir. Bu kimlikler ve teknik bilgiler kişisel veri niteliğinde olabilir."
+      ],
+      [
+        "Google hizmetleri",
+        "Google bu bilgileri kendi gizlilik politikasına göre yönetir: https://policies.google.com/privacy. MathRush kişisel verileri satmaz."
+      ]
+    ],
+    "de": [
+      [
+        "App und Werbung",
+        "MathRush erhebt selbst keine personenbezogenen Daten. Für Werbung wird Google AdMob verwendet. Drittanbieter können Geräte- und Werbekennungen, Werbedaten, Nutzungsstatistiken, Absturzdiagnosen und Leistungsdaten verarbeiten. Diese Kennungen und technischen Informationen können personenbezogene Daten darstellen."
+      ],
+      [
+        "Google-Dienste",
+        "Google verarbeitet diese Angaben nach der eigenen Datenschutzerklärung: https://policies.google.com/privacy. MathRush verkauft keine personenbezogenen Daten."
+      ]
+    ]
+  },
+  "repo": "MathRush",
+  "aliases": [
+    [
+      "index-en.html",
+      "en",
+      "home"
+    ],
+    [
+      "index-de.html",
+      "de",
+      "home"
+    ],
+    [
+      "support.html",
+      "tr",
+      "support"
+    ],
+    [
+      "privacy.html",
+      "tr",
+      "privacy"
+    ],
+    [
+      "support-en.html",
+      "en",
+      "support"
+    ],
+    [
+      "privacy-en.html",
+      "en",
+      "privacy"
+    ],
+    [
+      "support-de.html",
+      "de",
+      "support"
+    ],
+    [
+      "privacy-de.html",
+      "de",
+      "privacy"
+    ]
+  ]
+}
